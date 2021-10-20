@@ -34,7 +34,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.shelly.vpnApp"
+        applicationId "com.shelando.vpnApp"
         minSdkVersion 23
         targetSdkVersion 30
         versionCode flutterVersionCode.toInteger()

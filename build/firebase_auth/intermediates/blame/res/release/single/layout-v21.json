@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/raheemcampbell/Desktop/Projects/nizvpn/build/firebase_auth/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/raheemcampbell/.gradle/caches/transforms-2/files-2.1/dc6adeb6f24fa58c729a38f312d60f9f/core-1.1.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/raheemcampbell/Desktop/Projects/nizvpn/build/firebase_auth/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/raheemcampbell/.gradle/caches/transforms-2/files-2.1/dc6adeb6f24fa58c729a38f312d60f9f/core-1.1.0/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/raheemcampbell/Desktop/Projects/nizvpn/build/firebase_auth/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/raheemcampbell/.gradle/caches/transforms-2/files-2.1/dc6adeb6f24fa58c729a38f312d60f9f/core-1.1.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/raheemcampbell/Desktop/Projects/nizvpn/build/firebase_auth/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/raheemcampbell/.gradle/caches/transforms-2/files-2.1/dc6adeb6f24fa58c729a38f312d60f9f/core-1.1.0/res/layout-v21/notification_template_icon_group.xml"
+    }
+]
